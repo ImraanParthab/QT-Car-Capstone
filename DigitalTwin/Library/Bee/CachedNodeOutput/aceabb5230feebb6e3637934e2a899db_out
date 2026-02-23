@@ -1,0 +1,1 @@
+C:\Users\kingp\Downloads\ROS-TCP-Connector-main\com.unity.robotics.ros-tcp-connector\Runtime\TcpConnector\ROSConnection.cs(446,29): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindFirstObjectByType instead or if finding any instance is acceptable the faster Object.FindAnyObjectByType'

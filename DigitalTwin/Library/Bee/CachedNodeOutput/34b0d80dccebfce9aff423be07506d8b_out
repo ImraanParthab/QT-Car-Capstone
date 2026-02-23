@@ -1,0 +1,3 @@
+C:\Users\kingp\Downloads\ROS-TCP-Connector-main\com.unity.robotics.visualizations\Editor\MultiEchoLaserScanVisualizerSettingsEditor.cs(11,12): warning CS0414: The field 'MultiEchoLaserScanEditor.m_SizeMin' is assigned but its value is never used
+C:\Users\kingp\Downloads\ROS-TCP-Connector-main\com.unity.robotics.visualizations\Editor\MultiEchoLaserScanVisualizerSettingsEditor.cs(10,11): warning CS0414: The field 'MultiEchoLaserScanEditor.m_SizeMaxVal' is assigned but its value is never used
+C:\Users\kingp\Downloads\ROS-TCP-Connector-main\com.unity.robotics.visualizations\Editor\MultiEchoLaserScanVisualizerSettingsEditor.cs(9,12): warning CS0414: The field 'MultiEchoLaserScanEditor.m_SizeMax' is assigned but its value is never used
